@@ -1,0 +1,5 @@
+Warning[2058] C:\Users\Dell\Desktop\FinalProject.X\main.c 89 : call of function without prototype
+Warning[2103] C:\Users\Dell\Desktop\FinalProject.X\main.c 92 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\Dell\Desktop\FinalProject.X\main.c 93 : call of function without prototype
+Warning[2058] C:\Users\Dell\Desktop\FinalProject.X\main.c 95 : call of function without prototype
+Warning[2058] C:\Users\Dell\Desktop\FinalProject.X\main.c 96 : call of function without prototype
