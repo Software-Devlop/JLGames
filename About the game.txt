@@ -1,0 +1,3 @@
+This is the game my teammate and I developed during our "Advanced Programming" course at university. The goal was to create a game using WinForms to demonstrate our deep understanding of programming concepts and to practice finding creative solutions to development challenges. In this project, I focused on the intro, menus, and the "Fish Frenzy" game, while my colleague developed the second game, "Soccer Slinger."
+
+To see it more properly visit my youtube channel to see the demo video about it through this link: https://www.youtube.com/watch?v=HhshmlY3JMg
